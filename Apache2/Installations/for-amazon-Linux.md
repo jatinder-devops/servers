@@ -43,5 +43,5 @@ Enable server
 sudo systemctl enable httpd
 ```
 ``Enable`` means while the machine restart the service will be automatically start.
-``Disable`` means when the machine is restart the service will remain stop.
+``Disable`` means when the machine is restart the service will remain stop. 
 <img width="1470" height="663" alt="image" src="https://github.com/user-attachments/assets/1a8fc506-f10b-45a8-8163-657523e6e640" />
